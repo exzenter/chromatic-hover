@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:     Chromatic Aberration Hover
- * Plugin URI:      https://example.com/
+ * Plugin URI:      https://exzent.de
  * Description:     Applies a chromatic aberration hover mask to selectors with configurable colors and behavior.
  * Version:         0.1.0
- * Author:          Automated Builder
- * Author URI:      https://example.com/
+ * Author:          MitchWP Exzent.deBuilder
+ * Author URI:      https://exzent.de
  * License:         GPL-2.0-or-later
  * Text Domain:     chromatic-aberration-hover
  */
